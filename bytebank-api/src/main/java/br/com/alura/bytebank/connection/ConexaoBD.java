@@ -13,6 +13,7 @@ public class ConexaoBD {
             Connection connection = DriverManager
                     .getConnection("jdbc:mysql://localhost:3306/byte_bank?user=root&password=admin");
 
+            connection.close();
         } catch (SQLException e) {
             System.out.println(e);
 
