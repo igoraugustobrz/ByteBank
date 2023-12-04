@@ -6,7 +6,7 @@
 
     <groupId>br.com.alura</groupId>
     <artifactId>bytebank</artifactId>
-    <version>1.1</version>
+    <version>1.2git</version>
 
     <properties>
         <maven.compiler.source>17</maven.compiler.source>

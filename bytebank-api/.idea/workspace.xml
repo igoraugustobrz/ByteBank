@@ -6,13 +6,9 @@
   <component name="ChangeListManager">
     <list default="true" id="063c8525-533c-408c-8fe0-419c37ab1a9d" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/br/com/alura/bytebank/BytebankApplication.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/br/com/alura/bytebank/BytebankApplication.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/br/com/alura/bytebank/domain/RegraDeNegocioException.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/br/com/alura/bytebank/domain/RegraDeNegocioException.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/br/com/alura/bytebank/domain/cliente/Cliente.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/br/com/alura/bytebank/domain/cliente/Cliente.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/br/com/alura/bytebank/domain/cliente/DadosCadastroCliente.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/br/com/alura/bytebank/domain/cliente/DadosCadastroCliente.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/br/com/alura/bytebank/domain/conta/Conta.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/br/com/alura/bytebank/domain/conta/Conta.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/br/com/alura/bytebank/domain/conta/ContaService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/br/com/alura/bytebank/domain/conta/ContaService.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/br/com/alura/bytebank/domain/conta/DadosAberturaConta.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/br/com/alura/bytebank/domain/conta/DadosAberturaConta.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/br/com/alura/bytebank/connection/ConexaoBD.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/br/com/alura/bytebank/connection/ConnectionFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/br/com/alura/bytebank/connection/ConexaoBD.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/br/com/alura/bytebank/connection/ConexaoBD.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,6 +25,11 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
+  <component name="JsbtTreeLayoutManager">
+    <layout place="tools.popupGrunt">
+      <scroll-view-position x="0" y="0" />
+    </layout>
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 3
 }</component>
@@ -42,9 +43,9 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "git-widget-placeholder": "main",
+    "git-widget-placeholder": "develop",
     "ignore_missing_gitignore": "true",
-    "last_opened_file_path": "C:/Users/igora/OneDrive/Documentos/workspace/ByteBank/bytebank-api",
+    "last_opened_file_path": "C:/Users/igora/OneDrive/Documentos/workspace/2770-spring-boot-aula_2/2770-spring-boot-aula_2",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
